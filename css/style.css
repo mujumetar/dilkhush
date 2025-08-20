@@ -224,7 +224,7 @@
   
   .cd-headline.clip .cd-words-wrapper::after {
     /* line */
-    content: '';
+  
     position: absolute;
     top: 0;
     right: 0;
