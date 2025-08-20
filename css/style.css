@@ -3,12 +3,16 @@
     padding: 0;
     box-sizing: border-box;
     font-family: sans-serif;
+
+    border: 1px solid red;
+    /* display: flex; */
   }
   
   body {
     width: 480px;
     margin: auto;
-    height: 100vh;
+    position: relative;
+    max-height: 100vh;
   }
   
   .app {
@@ -265,6 +269,4 @@
   span b {
     color: white;
   }
-  
-  
   
